@@ -1,3 +1,4 @@
 hi krishna 
 
-this is the git hub demo.fghfgh
+this is the git hub demo.
+this is the git tutorial.
