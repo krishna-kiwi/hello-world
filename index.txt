@@ -2,5 +2,9 @@ hi krishna
 
 please enter the your country.
 India.
+<<<<<<< HEAD
 
 this is city branch.
+=======
+ I am working on kiiwtech.
+>>>>>>> city
